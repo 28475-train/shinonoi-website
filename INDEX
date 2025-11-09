@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ホーム | 篠ノ井乗務区 公式サイト</title>
+    <link rel="stylesheet" href="style.css"> 
+</head>
+<body>
+    <header>
+        <div class="header-content">
+            <img src="https://blogger.googleusercontent.com/img/a/AVvXsEhy5yAasSB0rir-88G0FzTk0Uwpx4Jg0lJSnJz3c8GsTpLUJ-vAv5Gr_G6t4bQs8a6vJ-f085h3f5ypeRHgv28i8cCAX6edWxaYjVpG4_v4lDVObF9zycze4mWkb0oQTbi7nUkhd0p8jSbq23hE1CHk3RaJVozBc2e5WK9LEcp8JdLlIVvBm_STpn2yFzGK=s1600" alt="篠ノ井乗務区ロゴ" class="site-logo">
+            <div class="site-title-group">
+                <h1>篠ノ井乗務区 公式サイト</h1>
+            </div>
+        </div>
+    </header>
+    
+    <nav>
+        <ul>
+            <li><a href="index.html" class="active">ホーム</a></li>
+            <li><a href="about.html">活動理念</a></li>
+            <li><a href="history.html">沿革</a></li>
+            <li><a href="admin.html">運営者情報</a></li>
+            <li><a href="https://shinorail-blog.blogspot.com/" target="_blank">お知らせ</a></li>
+        </ul>
+    </nav>
+    
+    <div class="container">
+        <h2>ようこそ、篠ノ井乗務区の公式ホームページへ。</h2>
+        
+        <div class="disclaimer">
+            【重要】当サイトは、鉄道の魅力を発信することを目的に運営されています。
+        </div>
+
+        <section id="welcome">
+            <p>長野県を中心とした路線紹介、沿線風景の記録、現役鉄道ファンとのつながりを大切にしながら情報をお届けします。</p>
+            <p>皆様の鉄道活動の一助となれば幸いです。</p>
+        </section>
+
+        <section id="latest-info">
+            <h3>📢 最新情報・活動報告</h3>
+            <ul>
+                <li><a href="https://shinorail-blog.blogspot.com/" target="_blank">[2025/11/09] 公式ブログ開設のお知らせと活動方針について [NEW]</a></li>
+                <li>[2025/11/05] X（旧Twitter）[@Shino_Rail] でも情報発信中！</li>
+                <li>[2025/10/30] Google Geminiなどの生成AI技術を活用し、サービスの品質向上に努めております。</li>
+            </ul>
+            <p><a href="https://shinorail-blog.blogspot.com/" target="_blank" class="blog-link">>>> 全てのお知らせを見る（ブログへ）</a></p>
+        </section>
+
+    </div>
+    
+    <footer>
+        運営：篠ノ井乗務区© 2025 篠ノ井乗務区 All Rights Reserved.
+    </footer>
+</body>
+</html>
